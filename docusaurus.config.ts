@@ -15,7 +15,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "helpr-bot", // Usually your GitHub org/user name.
+  organizationName: "helpr-gg", // Usually your GitHub org/user name.
   projectName: "helpr-docs", // Usually your repo name.
 
   onBrokenLinks: "warn",
@@ -38,7 +38,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/helpr-bot/docs",
+          editUrl: "https://github.com/helpr-gg/helpr-docs",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -68,7 +68,7 @@ const config: Config = {
         },
 
         {
-          href: "https://github.com/helpr-bot/docs",
+          href: "https://github.com/helpr-gg/helpr-docs",
           label: "GitHub",
           position: "right",
         },
@@ -100,7 +100,7 @@ const config: Config = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/helpr-bot/docs",
+              href: "https://github.com/helpr-gg/helpr-docs",
             },
           ],
         },
