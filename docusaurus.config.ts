@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Helpr Docs",
   tagline: "Home Page Coming Soon!",
-  favicon: "https://helpr.gg/icon.ico",
+  favicon: "https://bot.helpr.gg/icon.ico",
 
   // Set the production url of your site here
   url: "https://docs.helpr.gg",
