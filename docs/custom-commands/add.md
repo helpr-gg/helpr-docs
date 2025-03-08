@@ -1,4 +1,4 @@
-# Add Command
+# Add Command 
 
 ## Usage
 `/custom commands add` `<name>` `<description>` `<response>` Creates a custom slash command in your server
