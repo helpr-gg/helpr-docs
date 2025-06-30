@@ -14,7 +14,7 @@ This command will not work if levels are already enbaled on you server
 
 ## Default Config
 ### Level Up Message
-Congratulations `{user:mention}` you have leveled up to level `{user:level}`!\
+Default: Congratulations `{user:mention}` you have leveled up to level `{user:level}`!\
 You can change this with  [`/levels set-message`](./set-message)\
 You can also disable level up messages with [`/levels disabled-message`](./disable-message)
 
