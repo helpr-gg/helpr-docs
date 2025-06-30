@@ -30,7 +30,7 @@ const sidebars: SidebarsConfig = {
         title: "Custom Commands",
         slug: "custom-commands",
       },
-      items: ["custom-commands/add"],
+      items: ["custom-commands/add", "custom-commands/list", "custom-commands/remove"],
     },
     {
       type: "category",
