@@ -15,18 +15,18 @@ These values are based off of discord values, for example if you wanted to menti
 
 ## Values
 
-### User Values
+### Levels Values
 
 + `{user:username}` The user's username
 + `{user:mention}` Mentions the user
 + `{user:nickname}` The user's nickname
-
-### Levels Values
-
 + `{user:level}` The user's level
 + `{user:xp}` The user's xp
 
 ### Welcomer Values 
 
++ `{user:username}` The user's username
++ `{user:mention}` Mentions the user
++ `{user:nickname}` The user's nickname
 + `{guild:name}` The Servers Name
 + `{guild:member_count}` The Servers Total User Count (After the user joined)
