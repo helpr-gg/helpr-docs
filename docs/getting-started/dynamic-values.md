@@ -25,3 +25,9 @@ These values are based off of discord values, for example if you wanted to menti
 
 + `{user:level}` The user's level
 + `{user:xp}` The user's xp
+
+### Welcomer Values 
+
++ `{guild:name}` The Servers Name
++ `{guild:member_count}` The Servers' Total User Count (After the user joined)
++ `{user:joined_at}` Time the user joined at
